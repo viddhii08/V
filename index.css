@@ -1,0 +1,50 @@
+#row1{
+    background-color: blue;
+    padding-top: 50px;
+}
+#row2{
+    background-color: rgb(254, 254, 133);
+    padding-top: 10px 20px;
+     text-align:center;
+     line-height: 10px;
+      }
+      .button1{
+        background-color:  rgb(254, 254, 133);
+          }
+          .h1{
+            font-family: 'Noto Serif', serif;
+            font-family: 'Roboto', sans-serif;
+            font-size: 30px;
+            color: rgb(58, 58, 255);
+          }
+          .p{
+            font-family: 'Noto Serif', serif;
+            font-family: 'Quicksand', sans-serif;
+            font-family: 'Roboto', sans-serif; 
+            font-size:15px ;
+            color:black ;
+          }
+          .td{
+            background-color:rgb(58, 58, 255); 
+            border-color: white;
+            color: white;
+            font-family:  'Lexend', sans-serif;
+            font-family: 'Noto Serif', serif;
+            font-family: 'Quicksand', sans-serif;
+            font-family: 'Roboto', sans-serif;
+          }
+        .td1{
+            padding:10px;
+        }
+        table{
+            border-collapse: collapse;
+            border-color: lightgray;
+        }
+        #lastrow{
+            background-color:rgb(59, 52, 52);
+            padding-top: 10px 20px;
+            text-align: center;
+            color: white;  
+            line-height: 50px;
+        }
+        
